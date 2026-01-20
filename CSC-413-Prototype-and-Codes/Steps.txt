@@ -1,0 +1,8 @@
+1. Compile: javac JSPrototype.java PrototypeDemo.java
+2. Run: java PrototypeDemo
+3. Expected output:
+   Direct property: Golden Retriever
+   Inherited property: Dog
+   Woof!
+   Has own 'breed': true
+   Has own 'type': false
